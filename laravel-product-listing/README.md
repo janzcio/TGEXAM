@@ -14,8 +14,7 @@ ssh - git@github.com:janzcio/TGEXAM.git
 check out the project
 
 ```bash
-```bash
-cd TGEXAM/product-listing-backend
+cd TGEXAM/laravel-product-listing
 ```
 
 ```
